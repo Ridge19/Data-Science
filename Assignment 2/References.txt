@@ -1,0 +1,7 @@
+https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
+https://www.geeksforgeeks.org/how-to-randomly-select-rows-from-pandas-dataframe/
+https://datascience.stackexchange.com/questions/20199/train-test-split-error-found-input-variables-with-inconsistent-numbers-of-sam
+https://medium.com/geekculture/simple-linear-regression-bd4348e1ee62
+https://www.statsmodels.org/stable/index.html
+https://scikit-learn.org/stable/modules/linear_model.html
+https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
