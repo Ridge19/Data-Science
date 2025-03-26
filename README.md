@@ -13,6 +13,14 @@ This repository contains three assignments, contributing to the final grade as f
 📌 **Assignment 2:** Data modeling with the Data Science Process (*Using Machine Learning techniques to solve Data Modeling problems*)  
 📌 **Assignment 3:** Recommender Systems  
 
+### Please Install: 
+**Use pip install**
+- pandas
+- matplotlib
+- numpy
+- scikit-learn
+- statsmodels 
+
 ## Potential Python Libraries Used  
 The following Python libraries may be used throughout the assignments:  
 
